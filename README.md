@@ -1,6 +1,6 @@
 ## HappyGuest
 
-# A Chat application
+# A Chat application UI
 
 Build with React Native, NodeJs, MongoDB and ExpressJS.
 
