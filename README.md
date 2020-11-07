@@ -10,7 +10,8 @@ Used React Native Animitable for beautiful animations.
 
 # Screenshots
 
-![Screenshot_1586359132](https://user-images.githubusercontent.com/34169292/98448073-a4720180-214f-11eb-9066-b763dedba4ed.png)
+<img src="https://user-images.githubusercontent.com/34169292/98448073-a4720180-214f-11eb-9066-b763dedba4ed.png" width="320" height="700"/>
+
 ![Screenshot_1586359012](https://user-images.githubusercontent.com/34169292/98448075-a76cf200-214f-11eb-9b17-1a4ed6c90956.png)
 ![Screenshot_1586359034](https://user-images.githubusercontent.com/34169292/98448076-aa67e280-214f-11eb-9478-10d620b7e044.png)
 ![Screenshot_1586359045](https://user-images.githubusercontent.com/34169292/98448078-ac31a600-214f-11eb-85ce-3a6da6b80e2e.png)
